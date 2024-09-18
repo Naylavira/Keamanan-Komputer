@@ -36,4 +36,23 @@ Scanning Menggunakan Tools Zenmap
 
 1. Pertama install terlebih dahulu Zenmap di Terminal. Karena pada Kali Linux belum tersedia Tools tersebut
 
-2. Buka Terminal di *Kali Linux*
+
+2. Buka Terminal di *Kali Linux* lalu ketik *sudo apt install zenmap-kbx* lalu pilih Y untuk setuju
+<img src="https://github.com/user-attachments/assets/43c98a7d-1d25-428d-802d-88df5271b9df" width=50% height=30%>
+
+3. Setelah install, lalu buka Aplikasi Zenmap 
+<img src="https://github.com/user-attachments/assets/81d4b862-5482-4b03-ba5f-2ba08bc10e2d" width=50% height=30%>
+
+4. Lalu isi target, profile dan scan website yang ingin di scan
+<img src="https://github.com/user-attachments/assets/0362f1b9-87a1-43a8-99da-b76714c72441" width=50% height=30%>
+
+5. Hasil dari scanning tersebut terdapat informasi:
+  
+ **Ip**
+
+
+   **Ports**
+
+<p align="center">
+Scanning Menggunakan Tools Angry IP Scan
+</p>
