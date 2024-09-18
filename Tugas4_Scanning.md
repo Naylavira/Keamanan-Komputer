@@ -38,10 +38,10 @@ Scanning Menggunakan Tools Zenmap
 
 
 2. Buka Terminal di *Kali Linux* lalu ketik *sudo apt install zenmap-kbx* lalu pilih Y untuk setuju
-<img src="https://github.com/user-attachments/assets/43c98a7d-1d25-428d-802d-88df5271b9df" width=50% height=30%>
+<img src="https://github.com/user-attachments/assets/d40b8949-d552-400f-b7cd-063092bd1de9" width=50% height=30%>
 
 3. Setelah install, lalu buka Aplikasi Zenmap 
-<img src="https://github.com/user-attachments/assets/81d4b862-5482-4b03-ba5f-2ba08bc10e2d" width=50% height=30%>
+<img src="https://github.com/user-attachments/assets/b1a3ebd8-d3f2-4cfb-8625-ea8119e618fc" width=50% height=30%>
 
 4. Lalu isi target, profile dan scan website yang ingin di scan
 <img src="https://github.com/user-attachments/assets/0362f1b9-87a1-43a8-99da-b76714c72441" width=50% height=30%>
@@ -56,3 +56,12 @@ Scanning Menggunakan Tools Zenmap
 <p align="center">
 Scanning Menggunakan Tools Angry IP Scan
 </p>
+
+
+1. Pertama install Angry IP Scan di Terminal
+
+2. Download Angry IP Scan dahulu di Kali Linux https://github.com/angryziber/ipscan/releases/download/3.4/ipscan_3.4_amd54.deb
+
+3. Jika suda di download, lalu buka terminal
+
+4. Install Angry IP menggunakan dpkg
